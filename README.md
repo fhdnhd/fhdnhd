@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer from Indonesia
+<br>Saya adalah seorang yang passion di bidang programming terutama di bidang web<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ A passionate frontend developer from Indonesia
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fhdnhd&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fhdnhd&icon=0&color=0)](https://visitcount.itsvg.in)
